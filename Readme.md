@@ -6,7 +6,7 @@ Bu işe alım projesinde hedef eldeki verileri bir yapay zeka algoritmasıyla s�
 
 Proje sürecinde yapay zeka ile veri tahmin modellemeleri yapan birçok algoritma bu veriseti üzerinde denenmiştir. Kıstas olarak bize sunulan başarı oranı ( 5 çapraz doğrulama ile) %81 'i sağlayan algoritma **MLPC (Multi-layer Perceptron classifier)** olduğu belirlenmiştir. Eğitim verileri modele girdi olarak verildiğinde sonuç, aşağıda ki görselde de belirtirldiği gibi %92 başarım oranı olarak tespit edilmiştir.
 
-![Accuracy](https://imgur.com/d9nh0w5)
+![Accuracy](https://i.imgur.com/d9nh0w5.jpg)
 
 ## Sunulan Verilerden Anlamlı Bilgiler Çıkarma
 
@@ -24,40 +24,40 @@ Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürün
 
 ### Mevduatı Satın Alan Müşterilerin Yaş Grubu Grafiği
 
-![YasGrafigi](https://ibb.co/pyN71ky)
+![YasGrafigi](https://i.imgur.com/C6Y5Kwj.jpg)
 
 ### Mevduatı Satın Alan Müşterilerin Medeni Durumları ile İlgili Grafik
 
-![marital](https://ibb.co/QQdyLzk)
+![marital](https://i.imgur.com/dMOWt2i.jpg)
 
 ### Mevduatı Satın Alan Müşterilerin Eğitim Durumları Hakkında Grafik
 
-![education](https://ibb.co/mc7pgDt)
+![education](https://i.imgur.com/R1RDwoi.jpeg)
 
 ### Mevduatı Satın Alan Müşterilerin Meslek Grupları ile İlgili Grafik
 
-![job](https://ibb.co/vhW3zV3)
+![job](https://i.imgur.com/p09RTBw.jpg)
 
 ### Mevduatı Satın Alan Müşterilerin Bakiye Grafiği
 
-![bakiye](https://ibb.co/cxTZsdQ)
+![bakiye](https://i.imgur.com/1wXsLGj.jpg)
 
 ### Mevduatı Satın Alan Müşterilerin Aranma Sayılarını İçeren Grafik
 
-![aranma](https://ibb.co/VTtwvd3)
+![aranma](https://i.imgur.com/L8uexP4.jpeg)
 
 ### Mevduatı Satın Alan Müşterilerin Aranma Sürelerini İçeren Grafik
 
-![duration](https://ibb.co/Q8HG9rR)
+![duration](https://i.imgur.com/4qKV5SO.jpeg)
 
 ### Mevduatı Satın Alan Müşterilerin Daha Önceden Mevduata Sahip Olması Durumunu İçeren Grafik
 
-![default](https://ibb.co/hLkQqbD)
+![default](https://i.imgur.com/vJsvMex.jpeg)
 
 ### Mevduatı Satın Alan Müşterilerin Ev Kredisi Olup/Olmama Durumlarını İçeren Grafik
 
-![housing](https://ibb.co/ygCDbkN)
+![housing](https://i.imgur.com/FEkRokS.jpg)
 
 ### Mevduatı Satın Alan Müşterilerin Bireysel Kredileri Olup/Olmamaları Hakkında Bilgi İçeren Grafik
 
-![loan](https://ibb.co/Mp2yx5P)
+![loan](https://i.imgur.com/ucNkXrd.jpg)
