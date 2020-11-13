@@ -127,4 +127,62 @@ durations.head()
 
 plt.figure(figsize=(24, 8))
 sns.set(style="darkgrid")
-ax = sns.countplot(x="duration", data=durations)
+#ax = sns.countplot(x="duration", data=durations)
+ax = sns.displot(data=durations, x="duration", kde=True)
+
+default = []
+
+for i in range(0, 40000):
+    if df["y"][i] == 1:
+        default.append((df["default"][i]))
+
+defaults = DataFrame(default, columns=['default'])
+
+defaults.head()
+
+plt.figure(figsize=(24, 8))
+sns.set(style="darkgrid")
+#ax = sns.displot(data=defaults, x="default", kde=True)
+ax = sns.countplot(x="default", data=defaults)
+
+balance = []
+
+for i in range(0, 40000):
+    if df["y"][i] == 1:
+        balance.append((df["balance"][i]))
+
+balances = DataFrame(balance, columns=['balance'])
+
+balances.head()
+
+plt.figure(figsize=(24, 8))
+sns.set(style="darkgrid")
+ax = sns.displot(data=balances, x="balance", kde=True)
+
+loan = []
+
+for i in range(0, 40000):
+    if df["y"][i] == 1:
+        loan.append((df["loan"][i]))
+
+loans = DataFrame(loan, columns=['loan'])
+
+loans.head()
+
+plt.figure(figsize=(24, 8))
+sns.set(style="darkgrid")
+ax = sns.countplot(x="loan", data=loans)
+
+campaign = []
+
+for i in range(0, 40000):
+    if df["y"][i] == 1:
+        campaign.append((df["campaign"][i]))
+
+campaigns = DataFrame(campaign, columns=['campaign'])
+
+campaigns.head()
+
+plt.figure(figsize=(24, 8))
+sns.set(style="darkgrid")
+ax = sns.countplot(x="campaign", data=campaigns)
