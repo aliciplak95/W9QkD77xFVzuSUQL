@@ -2,17 +2,15 @@
 
 Bu işe alım projesinde hedef eldeki verileri bir yapay zeka algoritmasıyla sınıflandıran ve tahmini yapan model geliştirmek. Ayrıca eldeki verileri kullanarak anlamlı sonuç çıkarımı sağlamaktır.
 
-
 # Sınıflandırıcı Algoritması
 
-Proje sürecinde yapay zeka ile veri tahmin modellemeleri yapan birçok algoritma bu veriseti üzerinde denenmiştir. Kıstas olarak bize sunulan başarı oranı ( 5 çapraz doğrulama ile) %81 'i sağlayan algoritma **MLPC (Multi-layer Perceptron classifier)** olduğu belirlenmiştir. Eğitim verileri modele girdi olarak verildiğinde sonuç, aşağıda ki görselde de belirtirldiği gibi %92 başarım oranı olarak tespit edilmiştir. 
+Proje sürecinde yapay zeka ile veri tahmin modellemeleri yapan birçok algoritma bu veriseti üzerinde denenmiştir. Kıstas olarak bize sunulan başarı oranı ( 5 çapraz doğrulama ile) %81 'i sağlayan algoritma **MLPC (Multi-layer Perceptron classifier)** olduğu belirlenmiştir. Eğitim verileri modele girdi olarak verildiğinde sonuç, aşağıda ki görselde de belirtirldiği gibi %92 başarım oranı olarak tespit edilmiştir.
 
-![Model başarı oranı](https://ibb.co/KhskQjZ) 
-
+![Accuracy](https://imgur.com/d9nh0w5)
 
 ## Sunulan Verilerden Anlamlı Bilgiler Çıkarma
 
-Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürününü alması adına yapılan çalışmaların görselleştirmelerinin incelenmesi sonucu ; 
+Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürününü alması adına yapılan çalışmaların görselleştirmelerinin incelenmesi sonucu ;
 
 1- Etkili sonuç alma yaşı **26-39** arası yaş grubu olarak belirlenmiştir.
 2- Yıllık bakiye ortalamaları **düşük** çalışma grubu ürünü almaya daha yatkındır.
@@ -24,11 +22,9 @@ Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürün
 8-Müşteri potansiyeli belirlenen grup 2'den fazla aranmamalıdır. **2'den** fazla aranan müşterilerde olumlu sonuç oranı **çok düşük** olarak tespit edilmiştir.
 9-İletişim süreleri çok uzun tutulmamalıdır. Anlatılacak bilginin en fazla 1000sn. 'de müşteriye verilmesi gerektiği tespit edilmiştir. Sürenin uzaması müşteriyi **olumsuz** etkilemektedir.
 
-
 ### Mevduatı Satın Alan Müşterilerin Yaş Grubu Grafiği
 
 ![YasGrafigi](https://ibb.co/pyN71ky)
-
 
 ### Mevduatı Satın Alan Müşterilerin Medeni Durumları ile İlgili Grafik
 
@@ -58,14 +54,10 @@ Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürün
 
 ![default](https://ibb.co/hLkQqbD)
 
-
 ### Mevduatı Satın Alan Müşterilerin Ev Kredisi Olup/Olmama Durumlarını İçeren Grafik
 
 ![housing](https://ibb.co/ygCDbkN)
 
-
 ### Mevduatı Satın Alan Müşterilerin Bireysel Kredileri Olup/Olmamaları Hakkında Bilgi İçeren Grafik
 
 ![loan](https://ibb.co/Mp2yx5P)
-
-
