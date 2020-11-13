@@ -16,8 +16,8 @@ Yazının devamında görseller ile de desteklenen müşterilerin mevduat ürün
 2- Yıllık bakiye ortalamaları **düşük** çalışma grubu ürünü almaya daha yatkındır.  
 3- **Evli** olan müşterilerin bu mevduatı alma potansiyelleri bekar ve boşanmış olan müşterilere göre daha yüksektir.  
 4- Eğitim seviyesi lise-orta okul olan müşterilerin ürünü alma potansiyeli diğerlerine göre **daha yüksektir.**
-5- Meslekle ilgili genel yorum yapmak gerekirse, "Ev hanımı" "Öğrenci" ve "Girişimci"'lere ürünü satma potansiyeli çok düşüktür. Daha çok yöneticiler,şirket sahipleri ve mavi yakalılara yönelinmelidir. 
-6- Müşterilerin daha önceden kredi sahibi olmaları bu ürünü almalarını **olumsuz** etkilemiştir. Daha önceden kredisi **olmayan** müşteriler tercih edilmelidir.   
+5- Meslekle ilgili genel yorum yapmak gerekirse, "Ev hanımı" "Öğrenci" ve "Girişimci"'lere ürünü satma potansiyeli çok düşüktür. Daha çok yöneticiler,şirket sahipleri ve mavi yakalılara yönelinmelidir.  
+6- Müşterilerin daha önceden kredi sahibi olmaları bu ürünü almalarını **olumsuz** etkilemiştir. Daha önceden kredisi **olmayan** müşteriler tercih edilmelidir.    
 7- Müşterilerin ev kredilerinin olup/olmaması ürünün alınma potansiyelini **değiştirmemektedir.**  
 8-Müşteri potansiyeli belirlenen grup 2'den fazla aranmamalıdır. **2'den** fazla aranan müşterilerde olumlu sonuç oranı **çok düşük** olarak tespit edilmiştir.  
 9-İletişim süreleri çok uzun tutulmamalıdır. Anlatılacak bilginin en fazla 1000sn. 'de müşteriye verilmesi gerektiği tespit edilmiştir. Sürenin uzaması müşteriyi **olumsuz** etkilemektedir.
